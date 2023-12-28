@@ -1,0 +1,8 @@
+pandas
+streamlit
+PyPDF2
+python-docx
+python-pptx
+pillow
+langchain
+python-dotenv
